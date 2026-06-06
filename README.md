@@ -7,9 +7,9 @@ A single-file web app that converts natural language into Google Calendar events
 
 ## Demo
 
-    - > *"DSAI lab exam on Tuesday 9th, SQL and Python, 11am to 1pm"*
-    - > *"عندي اجتماع مع المشرف غداً الساعة 3 العصر في مبنى A"*
-    - > *"SRP poster due Wednesday 10th at 10:30am, start today"*
+    - "DSAI lab exam on Tuesday 9th, SQL and Python, 11am to 1pm"
+    - "عندي اجتماع مع المشرف غداً الساعة 3 العصر في مبنى A"
+    - "SRP poster due Wednesday 10th at 10:30am, start today"
 
 Gemini parses the text → preview card appears → one click saves it to Google Calendar.
 
